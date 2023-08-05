@@ -24,6 +24,10 @@
   color: white;
 }
 
+.slider.EventNewsSlider.sportSlider{
+  gap: 20px;
+}
+
 .App-link {
   color: #61dafb;
 }
