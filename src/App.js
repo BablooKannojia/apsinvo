@@ -2,7 +2,6 @@ import './App.css';
 import Header from './components/Header';
 import Training from './components/Training';
 import "./assets/css/user.css";
-// import "./assets/css/bootstrap.css";
 import "./assets/css/app.css";
 import "./assets/css/plugin.css";
 import "./assets/css/slick.css";
